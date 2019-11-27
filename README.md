@@ -1,4 +1,6 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Find%20Hotel%20Service#RvZRLT8MwDIB%2FTY9ITQPddoS9uCBAFUIco9ZLIqVNlWW049fjUvfFNLFduFTJZ8dJvlgN%2BDKvt06U6slmYIIozOqAr4IomsVz%2FDbg2ILbMG6BdDprERtAor%2BAYEj0oDPYTxK9tcbrcgpTWxSQ%2BgkTztlqmrazZrprKSScgCQV5pS%2B68yrls7vwoE%2Fgpaq25mFFMlFl0xgr0RmqxHi64AvnbW%2BHeX1EkzjrvPSrtucifYHc1D4SxZs5Hbxwd6Usru9jmer1%2Bd7fkNVPoU50IXpsP7YGcAqKBsnD5XSHpJSpE2kwudGpnxucMZwSKXAeajPnpH1N8eOAZuDd0dMoQXRgmRRtzBO82pwzzqhauR9TkzQc8u%2B9GAEByTlCkHR34LwYctmiNcUxoCx0okcfZTgNB4C3O%2FYyxD4B6d9R3ZOZxc6ja93itOhoX9io78CX38D" width="400"></p>
+
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -7,7 +9,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+-Find Hotels Service Architecture 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -15,7 +17,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- Database agnostArchitectureic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
